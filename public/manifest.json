@@ -1,0 +1,26 @@
+{
+  "name": "BEFA Admin Portal",
+  "short_name": "BEFA Admin",
+  "description": "Budu Elite Football Academy — Player management, training schedules, news, and merchandise.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#32cd32",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "/drilldown.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/drilldown.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["sports", "business", "productivity"]
+}
